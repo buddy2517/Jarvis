@@ -1,2 +1,2 @@
-const OpenAIAPIKey = 'sk-TpP90nFPWN9tqvmSoHwPANHzGtmagEnOeJFtZag0OBT3BlbkFJI4fHWP1U_jD-SBSD6PfTxNTTQResaGrOlb4FITpGEA';
+const OpenAIAPIKey = 'YourOpenAIAPIKey';
 
